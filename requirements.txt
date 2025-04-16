@@ -1,0 +1,24 @@
+crewai
+pyyaml==6.0.2
+# pip3-autoremove==0.9.1
+unsloth==2025.03.18
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+torchaudio==2.6.0+cu118
+xformers==0.0.29.post3
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+
+joblib==1.4.2
+scipy==1.15.2
+threadpoolctl
+absl-py==2.2.1
+ml_dtypes==0.5.1
+gast==0.6.0
+astunparse==1.6.3
+termcolor==2.5.0
+opt_einsum==3.4.0
+h5py==3.13.0
+tf-keras==2.19.0
+wandb==0.19.8
